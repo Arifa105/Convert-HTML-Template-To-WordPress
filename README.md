@@ -2,6 +2,7 @@
 
 Step 1:
      create Front-page.php, footer.php, header.php, functions.php, style.css
+     
 Step 2:
        import header and foote file on front page.
        
@@ -10,6 +11,8 @@ Step 2:
        custom logo and social icons.
        
        create custom menu bar
+       
+       Add screenshot.png file for theme cover
        
        
        
